@@ -1,0 +1,51 @@
+actions_funny = [
+    "spotted riding a buffalo through the city",
+    "rescued from a dog attack on the street",
+    "seen dancing in heavy rain at midnight",
+    "caught eating pani puri outside a railway station",
+    "found sleeping on a park bench",
+    "spotted arguing with a street vendor",
+    "seen driving an auto rickshaw in traffic",
+    "caught taking selfies with strangers",
+    "spotted buying vegetables at a local market",
+    "seen running barefoot on the highway",
+    "found feeding pigeons in the town square",
+    "spotted climbing a tree to rescue a kite",
+    "seen chasing a monkey near a temple",
+    "caught singing loudly in a metro station",
+    "seen riding a bicycle with no hands",
+    "spotted carrying a goat across the road",
+    "found helping traffic police during rush hour",
+    "seen playing cricket with children in the street",
+    "spotted eating roadside momos at 2 AM",
+    "caught bargaining aggressively with a shopkeeper"
+]
+actions_breaking = [
+    "involved in a mysterious street incident",
+    "rescued after a late-night accident",
+    "caught in an unexpected public argument",
+    "spotted near a controversial location",
+    "seen leaving a secret meeting",
+    "involved in a viral social media moment",
+    "found at the center of a public disturbance",
+    "questioned after a bizarre roadside event",
+    "rescued during a chaotic crowd situation",
+    "spotted moments before a major incident"
+]
+actions_absurd = [
+    "spotted riding a buffalo",
+    "seen teaching maths to pigeons",
+    "caught racing with a street dog",
+    "found talking to a coconut seller for an hour",
+    "spotted sleeping inside a shopping cart",
+    "seen eating 17 samosas in one sitting",
+    "caught arguing with a traffic signal",
+    "spotted doing pushups in the middle of the road",
+    "found chasing an ice cream truck",
+    "seen trying to interview a cow",
+    "spotted running from geese in a public park",
+    "found dancing with street performers",
+    "seen wearing sunglasses at midnight",
+    "caught hiding behind a tea stall",
+    "spotted climbing onto a bus roof"
+]
